@@ -19,7 +19,7 @@ html, body {
   padding: 0;
   vertical-align: middle;
   text-align: center;
-    transform: translateX(0%) translateY(-1200%);
+    transform: translateX(0%) translateY(-1000%);
 }
 
 .first-text li {
